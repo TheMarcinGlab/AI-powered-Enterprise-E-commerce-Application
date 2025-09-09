@@ -1,4 +1,4 @@
-Due to the nature of the project, I can present the code during the technical interview.
+# Due to the nature of the project, I can present the code during the technical interview.
 
 # Online Store Description
 
