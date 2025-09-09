@@ -1,3 +1,5 @@
+Due to the nature of the project, I can present the code during the technical interview.
+
 # Online Store Description
 
 The project presents a complete online shop application with an advanced purchasing process. The application includes browsing products, managing the cart, placing an order, and handling the user account. Below are the described views with examples.
@@ -66,6 +68,10 @@ Address form – street, city, postal code, country, phone.
 ![Payment](jpg/order_payment.png)  
 Choice of payment method: card, instant transfer, or cash on delivery.  
 For card payments – transaction authorization details.  
+
+Additionally, the application uses a Bank API as a dedicated payment gateway, which securely processes transactions between the customer, the store, and the financial institution.
+
+6.4 Summary
 
 ### 6.4 Summary
 ![Order Summary](jpg/order_review.png)  
